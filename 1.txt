@@ -1,0 +1,5 @@
+this is file to add new branch 
+command : git branch
+command : git branch branch_Name
+command : git checkout branch_Name
+command : git merge branch_Name
