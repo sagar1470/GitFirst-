@@ -3,3 +3,10 @@ command : git branch
 command : git branch branch_Name
 command : git checkout branch_Name
 command : git merge branch_Name
+
+for deletig branch 
+command : git branch -d branch_Name
+                (this command delete the branch from local address)
+
+command : git push origin --delete branch_Name
+              (this command delete the branch from reomote adress i.e )
